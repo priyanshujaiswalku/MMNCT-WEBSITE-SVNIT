@@ -15,7 +15,9 @@ It started in 2006 to honor his passion for cricket and continues to inspire stu
 
 ## 🌐 Live Demo
 
-(👉 Add your deployed link here - Vercel / Netlify)
+Website link https://www.mmnct.in/
+
+Instagram link https://www.instagram.com/mmnct_svnit/
 
 ---
 
