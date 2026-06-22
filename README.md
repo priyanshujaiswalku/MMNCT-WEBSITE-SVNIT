@@ -14,6 +14,14 @@ It started in 2006 to honor his passion for cricket and continues to inspire stu
 
 ---
 
+## 🌐 Live Demo
+
+Website link https://www.mmnct.in/
+Instagram link https://www.instagram.com/mmnct_svnit/
+
+---
+
+
 ## 🚀 Features
 
 * 📊 Live Score Updates
@@ -58,13 +66,6 @@ npm run dev
 
 👉 Open in browser:
 http://localhost:3000
-
----
-
-## 🌐 Live Demo
-
-Website link https://www.mmnct.in/
-Instagram link https://www.instagram.com/mmnct_svnit/
 
 ---
 
