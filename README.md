@@ -12,6 +12,14 @@ It started in 2006 to honor his passion for cricket and continues to inspire stu
 
 ---
 
+
+## 🌐 Live Demo
+
+(👉 Add your deployed link here - Vercel / Netlify)
+
+---
+
+
 ## 🚀 Features
 
 * 📊 Live Score Updates
@@ -56,12 +64,6 @@ npm run dev
 
 👉 Open in browser:
 http://localhost:3000
-
----
-
-## 🌐 Live Demo
-
-(👉 Add your deployed link here - Vercel / Netlify)
 
 ---
 
