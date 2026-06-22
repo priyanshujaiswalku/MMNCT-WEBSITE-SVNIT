@@ -1,5 +1,3 @@
-# MMNCT-WEBSITE-SVNIT
-
 # 🏏 MMNCT Website - SVNIT
 
 A modern web application built for **MMNCT (Manoj Memorial Night Cricket Tournament)** at SVNIT Surat.
