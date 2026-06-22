@@ -7,6 +7,7 @@ MMNCT is a cricket website that aims to enhance audience interaction throughout 
 
 
 Website link https://www.mmnct.in/
+Instagram link https://www.instagram.com/mmnct_svnit/
 
 
 Screenshots  
