@@ -9,7 +9,9 @@ MMNCT is a cricket website that aims to enhance audience interaction throughout 
 Website link https://www.mmnct.in/
 
 
-Screenshots  Home page
+Screenshots  
+
+
 <img width="628" height="769" alt="image" src="https://github.com/user-attachments/assets/77f957fa-6e47-4524-a786-7e32c6b3995b" />
 
 <img width="595" height="831" alt="image" src="https://github.com/user-attachments/assets/54b37023-70a1-41ed-b947-bfff6520f4e3" />
